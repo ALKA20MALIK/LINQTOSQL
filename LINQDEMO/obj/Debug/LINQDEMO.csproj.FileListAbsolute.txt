@@ -15,6 +15,6 @@ D:\LINQDEMO\LINQDEMO\bin\LINQDEMO.dll
 D:\LINQDEMO\LINQDEMO\bin\LINQDEMO.pdb
 D:\LINQDEMO\LINQDEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\LINQDEMO\LINQDEMO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\LINQDEMO\LINQDEMO\obj\Debug\LINQDEMO.csprojResolveAssemblyReference.cache
 D:\LINQDEMO\LINQDEMO\obj\Debug\LINQDEMO.dll
 D:\LINQDEMO\LINQDEMO\obj\Debug\LINQDEMO.pdb
+D:\LINQDEMO\LINQDEMO\obj\Debug\LINQDEMO.csprojResolveAssemblyReference.cache

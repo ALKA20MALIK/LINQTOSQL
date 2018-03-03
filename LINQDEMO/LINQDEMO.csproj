@@ -87,6 +87,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Employee.cs" />
+    <Compile Include="LinqAggregatefunction.cs" />
     <Compile Include="LINQToObjects.aspx.cs">
       <DependentUpon>LINQToObjects.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
