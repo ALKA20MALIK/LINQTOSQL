@@ -17,7 +17,7 @@ namespace LINQDEMO
                                    select s;
             GridView1.DataBind();
 
-           
+           //
             GridView2.DataSource = ( from pd in DataContext.xtOrders
                     join od in DataContext.xtSales on pd.OrderId equals od.OrderId
                      orderby od.OrderId
