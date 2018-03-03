@@ -17,7 +17,8 @@ namespace LINQDEMO
                                    select s;
             GridView1.DataBind();
 
-           //
+         
+
             GridView2.DataSource = ( from pd in DataContext.xtOrders
                     join od in DataContext.xtSales on pd.OrderId equals od.OrderId
                      orderby od.OrderId
@@ -33,10 +34,6 @@ namespace LINQDEMO
 
         protected void GridView2_SelectedIndexChanged(object sender, EventArgs e)
         {
-
-
-
-
         }
     }
 }
